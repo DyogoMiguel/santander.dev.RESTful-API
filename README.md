@@ -1,5 +1,7 @@
 ## Santander dev week
 
+Projeto de API RESTful usando Spring Boot criada para o Bootcamp Java da DIO, simulando uma conta de arte em uma rede social
+
 ```mermaid
 classDiagram
     class User {
