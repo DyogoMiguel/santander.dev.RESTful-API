@@ -20,7 +20,6 @@ public class Commission {
     @Column(precision = 10, scale = 2)
     private BigDecimal price;
 
-
     public int getQueue() {
         return queue;
     }
