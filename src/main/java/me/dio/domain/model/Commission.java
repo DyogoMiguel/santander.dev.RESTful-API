@@ -17,7 +17,7 @@ public class Commission {
 
     private int queue;
 
-    @Column(scale = 10, precision = 2)
+    @Column(precision = 10, scale = 2)
     private BigDecimal price;
 
 
